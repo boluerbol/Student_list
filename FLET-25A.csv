@@ -1,19 +1,18 @@
-name max16,activity 16,
-Adambek Kubanychbekov,++++ ++++++
-Arafat Kubatbekov,++++ ++++++
-Duulatbekov Iskender,
-Sovetbekov Daniyar,+++
-Aidemi Rustramova,+++++++
-Esma Ismailova,++++++++
-Asilova Dilnura,+++
-Dubashov Ernazar,++++++
-Dzhakshylikova Aisel,+++++
-Kayumova Aelina,++++++
-Kubanychbekov Bektur,+++++++
-Abdyrazakova Aikanysh,+++++
-Sainidinov Tobokel-Ishenaaly,+++ +++
-Samieva Sezim,++
-Turusbekova Ainazik,+++ ++++
-Umanova Rayana,++++++++
-Zhumamatov marsel,++++
-Ernisov Keldibek,+ 
+name surname,activity max12 (50%),test1 (10%),test2 (10%),midterm (30%),Midterm grade,Final grade
+Adambek Kubanychbekov,++++ ++++++++,100,90
+Arafat Kubatbekov,++++ ++++++++,94,80
+Sovetbekov Daniyar,+++,58,58
+Aidemi Rustramova,+++++++++,90,55
+Esma Ismailova,++++++++,100,95
+Asilova Dilnura,+++,50,100
+Dubashov Ernazar,++++++,,85
+Dzhakshylikova Aisel,+++++,55,97
+Kayumova Aelina,++++++,54
+Kubanychbekov Bektur,+++++++++,62,85
+Abdyrazakova Aikanysh,+++++,57,75
+Sainidinov Tobokel-Ishenaaly,+++ +++++++,87,95
+Samieva Sezim,++,87,73
+Turusbekova Ainazik,+++ ++++,90,93
+Umanova Rayana,++++++++++,63,73
+Zhumamatov marsel,++++,90,96
+Ernisov Keldibek,+ ,74,75

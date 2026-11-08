@@ -1,24 +1,35 @@
-name,activity,certificate(python),project
- Azizmuratov Emir, +,✅✅✅✅,-
- Rahmanov Barsbek,++,✅✅✅✅
- Tugolbaev Chingiz,++,✅✅✅
- Zhusuev Daniel,+++++5+,✅✅✅✅
- Abdullaeva Asema,++++,✅✅✅
- Bayishbekov Chyngyz,++++,✅✅✅✅
- Rakhmanov Ertabyldy,+++,✅✅ ✅
- Tugolbekov Aman,++++5,✅✅✅✅
- Kudaibergenova Ariet,++,✅✅✅✅
- Razakov Damir,++++,✅✅✅✅
- Turdubekov Sardarbek,+++,✅✅✅✅
- Alisherov Ilim,++++5,✅✅✅✅
- Mamytbekov Aidarbek,+++,✅✅✅✅
- Ryskulbekov Nurdin,+,✅✅✅✅
- Zamirov Mirrad ,+,✅✅✅✅
- Anyshbekova Akbermet,++,✅✅✅✅
- Mashova Aiturgan ,+++,✅✅✅✅
- Saatov Zhumabek,+++,✅
- Zarlykov Erbeshim,+++++5+,✅✅✅✅
- Askarbekov Nurbol,+10+++5+,✅✅✅✅
- Naamatov Eldiyar,++5,✅✅✅✅
- Satybaldiev Alimansur,+++,✅✅✅✅
- Zhumakmatov Suunbek,++,✅✅✅
+name,activity[25%],certificate(python)[25%],project[50%],midterm,extra,final
+ Azizmuratov Emir, +,✅✅✅✅,100,80.0%
+ Rahmanov Barsbek,++,✅✅✅✅,100,85.0%
+ Tugolbaev Chingiz,+++,✅✅✅,,33.8%
+ Zhusuev Daniel,+++++(+++++)++,✅✅✅✅,100,100.0%,2%
+ Abdullaeva Asema,++++,✅✅✅,100,88.8%
+ Bayishbekov Chyngyz,++++,✅✅✅✅,✅100,100.0%
+ Rakhmanov Ertabyldy,+++,✅✅ ✅✅,✅ 100,100.0%
+ Tugolbekov Aman,++++(+++++),✅✅✅✅,✅100,100.0%,
+ Kudaibergenova Ariet,++,✅✅✅✅,100,85.0%
+ Razakov Damir,++++,✅✅✅✅,100,100.0%
+ Turdubekov Sardarbek,++++,✅✅✅✅,100,100.0%
+ Alisherov Ilim,++++(+++++),✅✅✅✅,✅100,100.0%,
+ Mamytbekov Aidarbek,+++,✅✅✅✅,100,95.0%
+ Ryskulbekov Nurdin,+,✅✅✅✅,,30.0%
+ Zamirov Mirrad ,+,✅✅✅✅,,30.0%
+ Anyshbekova Akbermet,++,✅✅✅✅,100,85.0%
+ Mashova Aiturgan ,++++,✅✅✅✅,100,90.0%
+ Saatov Zhumabek,+++,✅,,21.3%
+ Zarlykov Erbeshim,+++++(+++++)+,✅✅✅✅,100,100.0%,4%
+ Askarbekov Nurbol,+(++++++++++)+++(+++++)+++,✅✅✅✅,,50.0%,24%
+ Naamatov Eldiyar,++(+++++),✅✅✅✅,100,50.0%,2%
+ Satybaldiev Alimansur,+++,✅✅✅✅,100,90.0%
+ Zhumakmatov Suunbek,++,✅✅✅,,28.8%
+
+
+
+Final project requirements:
+1.JWT (JSON Web Token) authentication for user login and registration. + gmail verification for account activation.
+2. API CRUD (Create, Read, Update, Delete) operations for managing user data.
+3. IaaS (Infrastructure as a Service) deployment using a cloud platform (e.g., AWS, Azure, or Google Cloud).
+4. Bakckend development using a web framework (e.g., Django, Flask, or Express.js).
+5. Frontend development using a modern JavaScript framework (e.g., React, Angular, or Vue.js).
+6. 2FA (Two-Factor Authentication) implementation for enhanced security.
+7. Database integration (e.g., PostgreSQL, MySQL, or MongoDB) for storing user information.
