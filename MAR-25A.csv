@@ -1,25 +1,25 @@
-name,activity,homework,test,midterm,final,average,grade
-Akzhigitov Islam,++,,,65
-Anarbekov Aybek,++++++,,94,88
-Asanbekova Sezim,+++++++++++,,100,100
-Asylbekova Zhyldyz,++++++,,90,100
-Bahodirova Saadat,++++,,97,93
-Baiterekov Nurbol,+++,,44,30
-Bekbolotova Tameris,++ +++ ++++,,94,100
-Esensalitov Atay,+++++++++++,,100,100
-Eshenkulov Dilmurat,
-Kachiev Alisker,++++,,100,88
-Karabaev Abdulla,+,,74,100
-Kubatov Sardarbek,++,,100,85
-Mamatova Aibike,+++++++++,,81,94
-Ruslanov Nariman,+++++,,100,100
-Sadykova Bermet,+++++,,100,100
-Seyitbekov Nurtay,+,,,51
-Shakirov Arslan,++,,87
-Shakirov Mukhammadfotikh,,,100
-Sultanbekov Amantay,++ +++++,,40,86
-Toktobaeva Aygunsuluu,+++++,,81
-Toktogulov Imran,++,,21,81
-Turgunbekova Munira,++++++,,100,88
-Uranov Elkhan,,,20,91
-Zharkynbaeva Aelita,+++++++++,,100,95
+name,activity = 50%,test = 10%,test = 10%,midterm exam = 30%,MIDTERM
+Akzhigitov Islam,++,65
+Anarbekov Aybek,++++++,88
+Asanbekova Sezim,+++++++++++,100
+Asylbekova Zhyldyz,++++++,100
+Bahodirova Saadat,++++,93
+Baiterekov Nurbol,+++,30
+Bekbolotova Tameris,++ +++ ++++,100
+Esensalitov Atay,+++++++++++,100
+Eshenkulov Dilmurat,,80
+Kachiev Alisker,++++,88
+Karabaev Abdulla,+,100
+Kubatov Sardarbek,++,85
+Mamatova Aibike,+++++++++,94
+Ruslanov Nariman,+++++,100
+Sadykova Bermet,+++++,100
+Seyitbekov Nurtay,+,51
+Shakirov Arslan,++
+Shakirov Mukhammadfotikh,
+Sultanbekov Amantay,++ +++++,86
+Toktobaeva Aygunsuluu,+++++
+Toktogulov Imran,++,81
+Turgunbekova Munira,++++++,88
+Uranov Elkhan,,91
+Zharkynbaeva Aelita,+++++++++,95

@@ -1,4 +1,4 @@
-name,activity 15,test1,test2,midterm 
+name,activity 15 = 50%,test1 = 10%,test2 = 10%,midterm exam = 30%,MIDTERM
  Abasova Aima ,+🗣️+++++,20,100
  Aibek Safiya ,+++++++++,80,100
  Aitmatova Zhamilya ,+++++++,90,100
@@ -7,7 +7,7 @@ name,activity 15,test1,test2,midterm
  Asylbekov Sultan ,,50,36
  Bekakhmet Ayana ,,70,55
  Bekturov Adilet ,+++++,,100
- Edilbekova Sumaya,++++++++++++++,80
+ Edilbekova Sumaya,++++++++++++++,80,80
  Ilyazov Sanzhar ,+++++++,90,86
  Imanaliev Bekzat ,+++++++++,50,87
  Kalmamatov Zafar ,🗣️,60,44
@@ -20,7 +20,7 @@ name,activity 15,test1,test2,midterm
  Raimkulov Daniel ,,15,29
  Salieva Safiya ,+++++++++++++++,90,84
  Sultanov Muslim ,🗣️+,40
- Usupova Erkinay ,+++++ +++++
+ Usupova Erkinay ,+++++ +++++,,80
  Yang Minhee ,+🗣️+++++++,52,100
  Bekkuluev Bakdoolot,++,22,47
 

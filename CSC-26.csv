@@ -1,25 +1,25 @@
-name,activity,homework,test1,test2,midterm,final,average,grade
-Amanbaev Ularbek,++++++++,,40,11
-Antoshkin Timur,++ +++ +++++++++++++++++++++++++,,94,59
-Antoshkina Kseniya,+++ +++ +++ +++ +++ +++++++,,57,26.5
-Asanbekov Eldar,++++++++++++++++++++++++,,95,34.5
-Askarbekov Beksultan,++++++++ ++++++++++,,95,75
-Beishembekov Nurbol,+ +++++ +++++ +++++++++,,50,35.5
-Bekturov Beksultan,+++ +++++++++,,69,18
-Duishobekov Emir,++++++++ +++++ +++++ ++++++++++++++++++++,,90,49
-Dzhumakov Eldiyar,++++++++++++,,88,5
-Kalchabaev Mukash,++++++++++++++++,,70,17.5
-Karimov Samir,++++++++++++++++,,75,14
-Karmyshov Ernis,+++++++,,99,100
-Kasymbekov Bayastan,+++++++++++++++++,,63,44.5
-Narynbekov Adakhan,++++++++,,68,23.5
-Nurova Kyal,+++ +++ +++++++++,,76,43
-Orozaliev Erasyl,+++++ +++++ +++++ +++++ +++++ +++,,80,54
-Sadyrov Azamat,+ +++ +++ ++++++++,,69,78
-Shaiykov Zhandar,++++++++++++ ++++++++++++,,30,8
-Suprunenko Nikita,++++ ++++++++++ ++++++++++,,45,31
-Temirbekov Alim,++++++++,,45,36.5
-Torobekov Atay,+ +++++ ++++++++++++,,75,37
-Tursunbekov Ali,+++++ ++++++++++,,27,0
-Tynchtykbekova Milana,++++++++++++++,,37,16
-Zhoomartbekov Nursultan,+++++ +++++ +++++ +++++,,80,29
+name,"activity,classwork,homework = 50%",test1 = 10%,test2  = 5%,test3  = 10%,midterm exam = 25%,MIDTERM
+Amanbaev Ularbek,++++++++,40,11,18
+Antoshkin Timur,++ +++ +++++++++++++++++++++++++,94,59,100
+Antoshkina Kseniya,+++ +++ +++ +++ +++ +++++++,57,26.5,73
+Asanbekov Eldar,++++++++++++++++++++++++,95,34.5,100
+Askarbekov Beksultan,++++++++ ++++++++++,95,75,94
+Beishembekov Nurbol,+ +++++ +++++ +++++++++,50,35.5,84
+Bekturov Beksultan,+++ +++++++++,69,18,44
+Duishobekov Emir,++++++++ +++++ +++++ ++++++++++++++++++++,90,49,84
+Dzhumakov Eldiyar,++++++++++++,88,5,99
+Kalchabaev Mukash,++++++++++++++++,70,17.5,85
+Karimov Samir,++++++++++++++++,75,14,99
+Karmyshov Ernis,+++++++,99,100,97
+Kasymbekov Bayastan,+++++++++++++++++,63,44.5,78
+Narynbekov Adakhan,++++++++,68,23.5,70
+Nurova Kyal,+++ +++ +++++++++,76,43,92
+Orozaliev Erasyl,+++++ +++++ +++++ +++++ +++++ +++,80,54,84
+Sadyrov Azamat,+ +++ +++ ++++++++,69,78,91
+Shaiykov Zhandar,++++++++++++ ++++++++++++,30,8,47.5
+Suprunenko Nikita,++++ ++++++++++ ++++++++++,45,31,87
+Temirbekov Alim,++++++++,45,36.5,76
+Torobekov Atay,+ +++++ ++++++++++++,75,37,100
+Tursunbekov Ali,+++++ ++++++++++,27,0,99
+Tynchtykbekova Milana,++++++++++++++,37,16,61
+Zhoomartbekov Nursultan,+++++ +++++ +++++ +++++,80,29,97

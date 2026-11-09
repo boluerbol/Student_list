@@ -1,25 +1,25 @@
-name,activity,homework,test,midterm,final,average,grade
-  Abylkasymova Tamara,+++++++++++,,100,81
-  Adiletova Arzu,++++++++++,,100,100
-  Amanov Baytegin,++++,,100,87
-  Asiretzhanov Emirhan,++++++,,99,100
-  Asylbekov Ilyas,+++++++++++++++,,84,86
-  Baiyshova Bermet,++++++++,,100
-  Baktyyarov Alidar,,,82,96
-  Esenov Alikhan,+++++,,95,100
-  Ibragimova Akylzat,++++++++++,,100,100
-  Kalandarov Abdushafi,+++,,99,97
-  Kaptagaeva Aruuke,++++++++++,,100,100
-  Karymshakova Aibike,++++++++++,,100,100
-  Mamatbaeva Amina,++++++++++,,100,100
-  Namazbekov Emir,+++,,95,84
-  Nietbekova Aybiike,+++++++,,100,100
-  Osmonova Tasnim,++ +++++++,,,95
-  Saalieva Aiyim,+++++++,,100,97
-  Suvanov Eldar,++++++++++,,95,93
-  Tashbekov Syrgakbek,++++ +++++++++++,,100,100
-  Turkmenov Adilet,+++++++++++++++,,95,95
-  Tynchtykov Rasul,++++,,,97
-  Vudunyan Yasmina,++++++++++++,,100,100
-  Zhaparalieva Adelya,+++++++++,,90,97
-  Zulpukorov Zhanadil,++++++++++++,,100,94
+name,activity = 50%,test1 = 10%,test2 = 10,midterm exam = 30%,MIDTERM
+  Abylkasymova Tamara,+++++++++++,100,81
+  Adiletova Arzu,++++++++++,100,100
+  Amanov Baytegin,++++,100,87
+  Asiretzhanov Emirhan,++++++,99,100
+  Asylbekov Ilyas,+++++++++++++++,84,86
+  Baiyshova Bermet,++++++++,100,97
+  Baktyyarov Alidar,,82,96
+  Esenov Alikhan,+++++,95,100
+  Ibragimova Akylzat,++++++++++,100,100
+  Kalandarov Abdushafi,+++,99,97
+  Kaptagaeva Aruuke,++++++++++,100,100
+  Karymshakova Aibike,++++++++++,100,100
+  Mamatbaeva Amina,++++++++++,100,100
+  Namazbekov Emir,+++,95,84
+  Nietbekova Aybiike,+++++++,100,100
+  Osmonova Tasnim,++ +++++++,,95
+  Saalieva Aiyim,+++++++,100,97
+  Suvanov Eldar,++++++++++,95,93
+  Tashbekov Syrgakbek,++++ +++++++++++,100,100
+  Turkmenov Adilet,+++++++++++++++,95,95
+  Tynchtykov Rasul,++++,,97
+  Vudunyan Yasmina,++++++++++++,100,100
+  Zhaparalieva Adelya,+++++++++,90,97
+  Zulpukorov Zhanadil,++++++++++++,100,94
